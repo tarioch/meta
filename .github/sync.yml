@@ -3,7 +3,7 @@ group:
       - source: configs/FUNDING.yml
         dest: .github/FUNDING.yml
     repos: |
-      tarioch/pre-commit-hooks
+      tarioch/pre-commit-flux
       tarioch/beancounttools
       tarioch/xirr
   - files:
@@ -12,6 +12,6 @@ group:
       - source: configs/workflows/pr-labeler.yml
         dest: .github/workflows/pr-labeler.yml
     repos: |
-      tarioch/pre-commit-hooks
+      tarioch/pre-commit-flux
       tarioch/beancounttools
       tarioch/xirr
