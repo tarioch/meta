@@ -1,0 +1,6 @@
+group:
+  - files:
+      - source: configs/FUNDING.yml
+        dest: .github/FUNDING.yml
+    repos: |
+      tarioch/pre-commit-hooks
