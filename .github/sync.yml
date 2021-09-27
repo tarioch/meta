@@ -6,3 +6,12 @@ group:
       tarioch/pre-commit-hooks
       tarioch/beancounttools
       tarioch/xirr
+  - files:
+      - source: configs/pr-labeler.yml
+        dest: .github/pr-labeler.yml
+      - source: configs/workflows/pr-labeler.yml
+        dest: .github/pr-labeler.yml
+    repos: |
+      tarioch/pre-commit-hooks
+      tarioch/beancounttools
+      tarioch/xirr
