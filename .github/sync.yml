@@ -4,3 +4,5 @@ group:
         dest: .github/FUNDING.yml
     repos: |
       tarioch/pre-commit-hooks
+      tarioch/beancounttools
+      tarioch/xirr
