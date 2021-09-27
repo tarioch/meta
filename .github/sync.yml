@@ -10,7 +10,7 @@ group:
       - source: configs/pr-labeler.yml
         dest: .github/pr-labeler.yml
       - source: configs/workflows/pr-labeler.yml
-        dest: .github/pr-labeler.yml
+        dest: .github/workflows/pr-labeler.yml
     repos: |
       tarioch/pre-commit-hooks
       tarioch/beancounttools
